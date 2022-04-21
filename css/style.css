@@ -721,7 +721,7 @@ img.effect-img {
     height: 400px;
 }
 .about {
-    padding: 77px 0px;
+    padding: 50px 0px;
 }
 
 .intputstyle {
@@ -733,14 +733,14 @@ button.btnstyle {
     position: absolute;
     padding: 7px 0px;
 }
- 
+
 
 }
 @media (max-width:576px) {
   .slider_part h3 {
       font-size: 12px;
   }
- 
+
 }
 @media (max-width:374px) {
   .best_seller1 h4 {
@@ -786,7 +786,7 @@ button.btn2 {
     font-size: 8px;
 }
 .about {
-    padding: 27px 0px;
+    padding: 35px 0px;
 }
 .about-header h4 {
     font-size: 20px;
@@ -809,6 +809,9 @@ img.effect-img {
     width: 100%;
     height: 270px;
 }
- 
- 
+}
+/*@media (max-width:320px) {
+  .about {
+	padding: 55px 0px;
+}*/
 }
